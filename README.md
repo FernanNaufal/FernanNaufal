@@ -2,7 +2,7 @@
 - 👀 I’m interested in we programming 
 - 🌱 I’m currently learning web
 - 💞️ I’m study at upn veteran jatim
-- check my instagram @fernan_nfal
+- :calling: check my instagram @fernan_nfal
 
 
 <!---
