@@ -2,7 +2,8 @@
 - 👀 I’m interested in we programming 
 - 🌱 I’m currently learning web
 - 💞️ I’m study at upn veteran jatim
-- 📫 How to reach me ...
+- check my instagram @fernan_nfal
+
 
 <!---
 FernanNaufal/FernanNaufal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
