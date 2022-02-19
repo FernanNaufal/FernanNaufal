@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FernanNaufal
-- 👀 I’m interested in we programming 
+- 👀 I’m interested in web programming, stock and crypto 
 - 🌱 I’m currently learning web
 - 💞️ I’m study at upn veteran jatim
 - :calling: check my instagram @fernan_nfal
