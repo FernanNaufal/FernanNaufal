@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FernanNaufal
-- 👀 I’m interested in web programming, stock and crypto 
-- 🌱 I’m currently learning web
+- 👋 Hi, I’m Fernanda Naufal
+- 👀 I’m interested in web programming, and data science 
 - 💞️ I’m study at upn veteran jatim
-- :calling: check my instagram @fernan_nfal
+- :calling: check my linkedin : https://www.linkedin.com/in/fernanda-naufal/
 
 <p align="left">
 <a href="https://github.com/FernanNaufal">
