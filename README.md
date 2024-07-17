@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fernanda Naufal
 - 👀 I’m interested in web programming, and data science 
 - 💞️ I’m study at upn veteran jatim
-- :calling: check my linkedin : https://www.linkedin.com/in/fernanda-naufal/
+- freshgraduate computer science UPN Veteran Jawa Timur
 
 <p align="left">
 <a href="https://github.com/FernanNaufal">
